@@ -1,0 +1,9 @@
+beautifulsoup4==4.11.2
+instagrapi==1.16.11
+PySimpleGUI==4.60.4
+requests==2.28.1
+selenium==4.8.2
+SocksiPy_branch==1.01
+Telethon==1.24.0
+vk_api==11.9.5
+vobject==0.9.6.1
