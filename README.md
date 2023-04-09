@@ -1,1 +1,3 @@
-# telegram-panel\nBot - converter\n GUI - engine
+telegram-panel
+Bot - converter
+GUI - engine
